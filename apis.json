@@ -1,0 +1,86 @@
+{
+    "name": "Scripted.com",
+    "description": "Scripted connects companies with the best freelance writers online!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1141-scripted-com.jpg",
+    "tags": [
+        "acronym",
+        "content",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scripted-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Scripted.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1141-scripted-com.jpg",
+            "humanURL": "http:\/\/scripted.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scripted-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.scripted.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.scripted.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.scripted.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/scripted"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/scripted"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.scripted.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/scripted.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "contact@scripted.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@scripted.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Scripted"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/getscripted"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/scripted.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/scripted.com"
+        }
+    ]
+}
